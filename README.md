@@ -1,5 +1,23 @@
 # CoreSpark - Install Spark in Ubuntu Machine
 
+Virtual environment:
+-------------------------------------
+sudo apt install virtualenv
+
+virtualenv -p /usr/bin/python3.6 .venv
+
+source .venv/bin/activate
+
+Dependencies:
+-----------------------------------
+pip install boto3
+
+pip install tweepy (if you want to work on tweets)
+
+Execute bash profile to get the env variables
+------------------------------------------------
+.    ~/.bash_profile
+
 # Install Packages Required for Spark
 
 sudo apt install default-jdk scala git -y
