@@ -1,39 +1,31 @@
-# Below is the link of explaining in details
+Below is the link of explaining in details
 --------------------------------------------------
-
 https://storage.googleapis.com/kaggle-forum-message-attachments/266230/8223/FIFA%2017%20ANALYSIS%20WITH%20MICROSOFT%20EXCEL%20-%20Copy.pdf
 
+Kaggle link
+--------------
 https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global
 
 Already explained in the above kaggle link. Here are just in case if that link not open:
 
-# The dataset for people who double on Fifa and Data Science
+The dataset for people who double on Fifa and Data Science
+----------------------------------------------------------------------
 Content
 ----------------------------------
 17,000+ players
-
 50+ attributes per player ranging from ball skills aggression etc.
-
 Player's attributes sourced from EA Sports' FIFA video game series, including the weekly updates
-
 Players from all around the globe
-
 URLs to their homepage
-
 Club logos
-
 Player images male and female
-
 National and club team data
 
-# Weekly Updates would include :
-
+Weekly Updates would include :
+------------------------------------------
 Real life data (Match events etc.)
-
 The fifa generated player dataset
-
 Betting odds
-
 Growth
 
 # Exploring the data
