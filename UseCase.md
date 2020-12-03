@@ -47,3 +47,4 @@ The file PlayerNames.csv contains URLs for different players from their profiles
 The compressed file Pictures.zip contains pictures for top 1000 players in Fifa 17.
 The compressed file Pictures_f.zip contains pictures for top 139 female players in Fifa 17.
 The compressed file ClubPictures.zip contains pictures for emblems of some major clubs in Fifa 17.
+
